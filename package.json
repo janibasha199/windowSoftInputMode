@@ -7,5 +7,9 @@
       "android"
     ]
   },
-  "description": "Cordova plugin to change windowSoftInputMode"
+  "description": "Cordova plugin to change windowSoftInputMode",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hariharan-tendercuts/windowSoftInputMode.git"
+  },
 }
